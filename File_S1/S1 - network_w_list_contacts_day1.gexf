@@ -1,0 +1,1484 @@
+<?xml version="1.0" encoding="utf-8"?><gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="edge" mode="static">
+      <attribute id="1" title="Ncontacts" type="integer" />
+      <attribute id="2" title="list_contacts" type="string" />
+      <attribute id="3" title="cumulativeduration" type="integer" />
+    </attributes>
+    <attributes class="node" mode="static">
+      <attribute id="0" title="role" type="string" />
+    </attributes>
+    <nodes>
+      <node id="1152" label="1152">
+        <attvalues>
+          <attvalue for="0" value="MED" />
+        </attvalues>
+      </node>
+      <node id="1157" label="1157">
+        <attvalues>
+          <attvalue for="0" value="MED" />
+        </attvalues>
+      </node>
+      <node id="1159" label="1159">
+        <attvalues>
+          <attvalue for="0" value="MED" />
+        </attvalues>
+      </node>
+      <node id="1164" label="1164">
+        <attvalues>
+          <attvalue for="0" value="NUR" />
+        </attvalues>
+      </node>
+      <node id="1295" label="1295">
+        <attvalues>
+          <attvalue for="0" value="NUR" />
+        </attvalues>
+      </node>
+      <node id="1168" label="1168">
+        <attvalues>
+          <attvalue for="0" value="MED" />
+        </attvalues>
+      </node>
+      <node id="1305" label="1305">
+        <attvalues>
+          <attvalue for="0" value="PAT" />
+        </attvalues>
+      </node>
+      <node id="1179" label="1179">
+        <attvalues>
+          <attvalue for="0" value="ADM" />
+        </attvalues>
+      </node>
+      <node id="1181" label="1181">
+        <attvalues>
+          <attvalue for="0" value="NUR" />
+        </attvalues>
+      </node>
+      <node id="1190" label="1190">
+        <attvalues>
+          <attvalue for="0" value="NUR" />
+        </attvalues>
+      </node>
+      <node id="1191" label="1191">
+        <attvalues>
+          <attvalue for="0" value="MED" />
+        </attvalues>
+      </node>
+      <node id="1320" label="1320">
+        <attvalues>
+          <attvalue for="0" value="PAT" />
+        </attvalues>
+      </node>
+      <node id="1193" label="1193">
+        <attvalues>
+          <attvalue for="0" value="NUR" />
+        </attvalues>
+      </node>
+      <node id="1323" label="1323">
+        <attvalues>
+          <attvalue for="0" value="PAT" />
+        </attvalues>
+      </node>
+      <node id="1196" label="1196">
+        <attvalues>
+          <attvalue for="0" value="NUR" />
+        </attvalues>
+      </node>
+      <node id="1327" label="1327">
+        <attvalues>
+          <attvalue for="0" value="PAT" />
+        </attvalues>
+      </node>
+      <node id="1332" label="1332">
+        <attvalues>
+          <attvalue for="0" value="PAT" />
+        </attvalues>
+      </node>
+      <node id="1374" label="1374">
+        <attvalues>
+          <attvalue for="0" value="PAT" />
+        </attvalues>
+      </node>
+      <node id="1352" label="1352">
+        <attvalues>
+          <attvalue for="0" value="PAT" />
+        </attvalues>
+      </node>
+      <node id="1098" label="1098">
+        <attvalues>
+          <attvalue for="0" value="ADM" />
+        </attvalues>
+      </node>
+      <node id="1232" label="1232">
+        <attvalues>
+          <attvalue for="0" value="ADM" />
+        </attvalues>
+      </node>
+      <node id="1105" label="1105">
+        <attvalues>
+          <attvalue for="0" value="NUR" />
+        </attvalues>
+      </node>
+      <node id="1363" label="1363">
+        <attvalues>
+          <attvalue for="0" value="PAT" />
+        </attvalues>
+      </node>
+      <node id="1365" label="1365">
+        <attvalues>
+          <attvalue for="0" value="PAT" />
+        </attvalues>
+      </node>
+      <node id="1238" label="1238">
+        <attvalues>
+          <attvalue for="0" value="NUR" />
+        </attvalues>
+      </node>
+      <node id="1114" label="1114">
+        <attvalues>
+          <attvalue for="0" value="NUR" />
+        </attvalues>
+      </node>
+      <node id="1115" label="1115">
+        <attvalues>
+          <attvalue for="0" value="NUR" />
+        </attvalues>
+      </node>
+      <node id="1116" label="1116">
+        <attvalues>
+          <attvalue for="0" value="NUR" />
+        </attvalues>
+      </node>
+      <node id="1246" label="1246">
+        <attvalues>
+          <attvalue for="0" value="NUR" />
+        </attvalues>
+      </node>
+      <node id="1377" label="1377">
+        <attvalues>
+          <attvalue for="0" value="PAT" />
+        </attvalues>
+      </node>
+      <node id="1378" label="1378">
+        <attvalues>
+          <attvalue for="0" value="PAT" />
+        </attvalues>
+      </node>
+      <node id="1383" label="1383">
+        <attvalues>
+          <attvalue for="0" value="PAT" />
+        </attvalues>
+      </node>
+      <node id="1130" label="1130">
+        <attvalues>
+          <attvalue for="0" value="MED" />
+        </attvalues>
+      </node>
+      <node id="1261" label="1261">
+        <attvalues>
+          <attvalue for="0" value="NUR" />
+        </attvalues>
+      </node>
+      <node id="1391" label="1391">
+        <attvalues>
+          <attvalue for="0" value="PAT" />
+        </attvalues>
+      </node>
+      <node id="1393" label="1393">
+        <attvalues>
+          <attvalue for="0" value="PAT" />
+        </attvalues>
+      </node>
+      <node id="1395" label="1395">
+        <attvalues>
+          <attvalue for="0" value="PAT" />
+        </attvalues>
+      </node>
+      <node id="1142" label="1142">
+        <attvalues>
+          <attvalue for="0" value="NUR" />
+        </attvalues>
+      </node>
+      <node id="1399" label="1399">
+        <attvalues>
+          <attvalue for="0" value="PAT" />
+        </attvalues>
+      </node>
+      <node id="1144" label="1144">
+        <attvalues>
+          <attvalue for="0" value="MED" />
+        </attvalues>
+      </node>
+      <node id="1148" label="1148">
+        <attvalues>
+          <attvalue for="0" value="MED" />
+        </attvalues>
+      </node>
+      <node id="1149" label="1149">
+        <attvalues>
+          <attvalue for="0" value="NUR" />
+        </attvalues>
+      </node>
+      <node id="1109" label="1109">
+        <attvalues>
+          <attvalue for="0" value="NUR" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="1152" target="1157">
+        <attvalues>
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="[(8300, 8320), (8480, 8500), (9200, 9220), (9620, 9660), (11780, 11800), (14100, 14180), (14200, 14220), (14240, 14260), (14280, 14300)]" />
+          <attvalue for="3" value="260" />
+        </attvalues>
+      </edge>
+      <edge id="1" source="1152" target="1191">
+        <attvalues>
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="[(1800, 1860), (8100, 8120), (8200, 8240), (8300, 8320), (8560, 8580), (9220, 9320), (9740, 9840), (9860, 9980), (10000, 10060), (11420, 11620), (13920, 14180), (14200, 14260), (14280, 14320), (14420, 14440)]" />
+          <attvalue for="3" value="1120" />
+        </attvalues>
+      </edge>
+      <edge id="2" source="1152" target="1193">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(6240, 6260)]" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="3" source="1152" target="1098">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(6320, 6340)]" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="4" source="1152" target="1159">
+        <attvalues>
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="[(13840, 13860), (14080, 14100), (14380, 14420)]" />
+          <attvalue for="3" value="80" />
+        </attvalues>
+      </edge>
+      <edge id="5" source="1152" target="1168">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[(6180, 6200), (6300, 6320)]" />
+          <attvalue for="3" value="40" />
+        </attvalues>
+      </edge>
+      <edge id="6" source="1152" target="1365">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[(11620, 11720), (13300, 13340)]" />
+          <attvalue for="3" value="140" />
+        </attvalues>
+      </edge>
+      <edge id="7" source="1152" target="1144">
+        <attvalues>
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="[(14100, 14120), (14140, 14220), (14380, 14420)]" />
+          <attvalue for="3" value="140" />
+        </attvalues>
+      </edge>
+      <edge id="8" source="1152" target="1114">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[(6540, 6560), (8320, 8340)]" />
+          <attvalue for="3" value="40" />
+        </attvalues>
+      </edge>
+      <edge id="9" source="1152" target="1374">
+        <attvalues>
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="[(11720, 11860), (11880, 12060), (12080, 12180), (12200, 12540), (12640, 12740), (12760, 12820), (12840, 12880), (12900, 12960), (13040, 13180), (13200, 13280)]" />
+          <attvalue for="3" value="1240" />
+        </attvalues>
+      </edge>
+      <edge id="10" source="1157" target="1232">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(140, 160)]" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="11" source="1157" target="1191">
+        <attvalues>
+          <attvalue for="1" value="47" />
+          <attvalue for="2" value="[(160, 180), (2420, 2460), (2480, 2500), (4540, 7360), (7420, 7980), (8000, 8020), (8180, 8200), (8220, 8240), (8260, 8280), (8300, 8320), (8460, 8540), (8560, 8580), (9260, 9300), (10140, 10160), (10180, 10220), (10280, 10300), (10660, 10860), (10880, 10960), (11000, 11060), (14120, 14140), (14400, 14560), (14720, 14760), (15960, 16020), (16040, 16080), (16500, 16520), (18460, 18480), (18520, 18540), (18560, 18600), (18640, 18660), (18680, 18720), (18740, 18780), (18880, 18900), (18940, 19020), (19040, 19100), (19120, 19140), (19220, 19300), (19360, 19380), (19400, 19560), (19620, 19640), (19660, 19680), (19820, 19900), (19920, 20000), (20020, 20060), (20080, 20100), (20140, 20180), (20200, 20220), (20440, 20460)]" />
+          <attvalue for="3" value="5420" />
+        </attvalues>
+      </edge>
+      <edge id="12" source="1157" target="1193">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(11080, 11100)]" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="13" source="1157" target="1098">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[(8000, 8020), (10620, 10640)]" />
+          <attvalue for="3" value="40" />
+        </attvalues>
+      </edge>
+      <edge id="14" source="1157" target="1159">
+        <attvalues>
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="[(500, 540), (920, 980), (12700, 12820), (13300, 13320), (15780, 15800), (15940, 15960), (16000, 16020), (16060, 16080), (19560, 19580)]" />
+          <attvalue for="3" value="340" />
+        </attvalues>
+      </edge>
+      <edge id="15" source="1157" target="1168">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[(8060, 8100), (20000, 20020)]" />
+          <attvalue for="3" value="60" />
+        </attvalues>
+      </edge>
+      <edge id="16" source="1157" target="1363">
+        <attvalues>
+          <attvalue for="1" value="15" />
+          <attvalue for="2" value="[(11100, 11120), (11320, 11400), (11420, 11440), (11520, 11560), (11660, 11700), (11720, 11740), (11760, 11780), (11800, 11820), (11840, 11940), (12040, 12080), (12140, 12160), (12180, 12200), (12260, 12340), (12580, 12600), (12620, 12640)]" />
+          <attvalue for="3" value="560" />
+        </attvalues>
+      </edge>
+      <edge id="17" source="1157" target="1365">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(19780, 19800)]" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="18" source="1157" target="1144">
+        <attvalues>
+          <attvalue for="1" value="33" />
+          <attvalue for="2" value="[(9200, 9220), (9240, 9360), (9420, 9480), (9500, 9540), (9580, 9600), (9620, 9660), (9740, 9820), (10220, 10240), (10260, 10280), (10420, 10440), (10460, 10480), (12520, 12560), (13040, 13060), (14400, 14440), (14560, 14620), (15720, 15740), (15760, 15780), (16760, 16880), (16900, 16920), (18600, 18620), (18740, 18820), (18860, 18880), (18920, 18940), (19060, 19100), (19120, 19260), (19320, 19380), (19400, 19420), (19580, 19620), (19640, 19680), (19960, 19980), (20020, 20040), (20060, 20080), (20160, 20280)]" />
+          <attvalue for="3" value="1460" />
+        </attvalues>
+      </edge>
+      <edge id="19" source="1157" target="1179">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(16480, 16500)]" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="20" source="1157" target="1148">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(18460, 18480)]" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="21" source="1157" target="1130">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[(18460, 18480), (18520, 18540)]" />
+          <attvalue for="3" value="40" />
+        </attvalues>
+      </edge>
+      <edge id="22" source="1157" target="1374">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[(11120, 11140), (12580, 12600)]" />
+          <attvalue for="3" value="40" />
+        </attvalues>
+      </edge>
+      <edge id="23" source="1159" target="1191">
+        <attvalues>
+          <attvalue for="1" value="20" />
+          <attvalue for="2" value="[(560, 640), (680, 700), (12360, 12380), (13840, 13860), (14080, 14140), (14280, 14320), (14340, 14380), (14400, 14480), (14520, 14600), (14720, 14740), (14960, 15020), (16020, 16480), (16500, 16580), (16720, 17060), (17080, 17120), (17220, 17280), (18620, 18640), (19040, 19060), (19600, 19620), (20360, 20380)]" />
+          <attvalue for="3" value="1580" />
+        </attvalues>
+      </edge>
+      <edge id="24" source="1159" target="1098">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[(13660, 13680), (16600, 16640)]" />
+          <attvalue for="3" value="60" />
+        </attvalues>
+      </edge>
+      <edge id="25" source="1159" target="1168">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[(15020, 15040), (17460, 17500)]" />
+          <attvalue for="3" value="60" />
+        </attvalues>
+      </edge>
+      <edge id="26" source="1159" target="1144">
+        <attvalues>
+          <attvalue for="1" value="16" />
+          <attvalue for="2" value="[(680, 700), (920, 1000), (11980, 12020), (12320, 12340), (12360, 12460), (13160, 13180), (13360, 13380), (13700, 13720), (13760, 13780), (13880, 13940), (14360, 14400), (14500, 14540), (16900, 16920), (17020, 17040), (19600, 19620), (20380, 20400)]" />
+          <attvalue for="3" value="560" />
+        </attvalues>
+      </edge>
+      <edge id="27" source="1159" target="1179">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(16480, 16500)]" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="28" source="1164" target="1193">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(4300, 4340)]" />
+          <attvalue for="3" value="40" />
+        </attvalues>
+      </edge>
+      <edge id="29" source="1164" target="1098">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(4080, 4100)]" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="30" source="1164" target="1295">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[(4180, 4200), (4320, 4360)]" />
+          <attvalue for="3" value="60" />
+        </attvalues>
+      </edge>
+      <edge id="31" source="1164" target="1232">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(4400, 4420)]" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="32" source="1164" target="1105">
+        <attvalues>
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="[(4320, 4340), (4400, 4440), (5640, 5660)]" />
+          <attvalue for="3" value="80" />
+        </attvalues>
+      </edge>
+      <edge id="33" source="1164" target="1109">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[(4180, 4200), (5600, 5620)]" />
+          <attvalue for="3" value="40" />
+        </attvalues>
+      </edge>
+      <edge id="34" source="1164" target="1116">
+        <attvalues>
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="[(4160, 4220), (4240, 4260), (4280, 4320)]" />
+          <attvalue for="3" value="120" />
+        </attvalues>
+      </edge>
+      <edge id="35" source="1295" target="1193">
+        <attvalues>
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="[(4260, 4340), (4500, 4580), (4860, 4880), (5120, 5160), (5380, 5420), (5440, 5500)]" />
+          <attvalue for="3" value="320" />
+        </attvalues>
+      </edge>
+      <edge id="36" source="1295" target="1232">
+        <attvalues>
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="[(4180, 4200), (4420, 4460), (5600, 5620), (5640, 5700)]" />
+          <attvalue for="3" value="140" />
+        </attvalues>
+      </edge>
+      <edge id="37" source="1295" target="1105">
+        <attvalues>
+          <attvalue for="1" value="15" />
+          <attvalue for="2" value="[(2260, 2280), (2340, 2360), (2580, 2600), (2620, 2640), (2720, 2740), (3200, 3220), (4020, 4040), (4160, 4200), (4420, 4440), (4460, 4500), (4520, 4580), (5460, 5480), (5520, 5540), (5580, 5600), (5660, 5680)]" />
+          <attvalue for="3" value="380" />
+        </attvalues>
+      </edge>
+      <edge id="38" source="1295" target="1109">
+        <attvalues>
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="[(2700, 2720), (3760, 3780), (4280, 4300), (4480, 4500), (4560, 4600), (5120, 5140), (5460, 5500)]" />
+          <attvalue for="3" value="180" />
+        </attvalues>
+      </edge>
+      <edge id="39" source="1295" target="1142">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[(5520, 5540), (5560, 5600)]" />
+          <attvalue for="3" value="60" />
+        </attvalues>
+      </edge>
+      <edge id="40" source="1295" target="1114">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(4240, 4260)]" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="41" source="1295" target="1116">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[(4180, 4200), (4320, 4340)]" />
+          <attvalue for="3" value="40" />
+        </attvalues>
+      </edge>
+      <edge id="42" source="1295" target="1181">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(4420, 4440)]" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="43" source="1168" target="1378">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(17180, 17200)]" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="44" source="1168" target="1191">
+        <attvalues>
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="[(10080, 10120), (11320, 11340), (11600, 11620), (14780, 14800), (14880, 14980), (17300, 17320), (19060, 19080), (19960, 20040)]" />
+          <attvalue for="3" value="320" />
+        </attvalues>
+      </edge>
+      <edge id="45" source="1168" target="1144">
+        <attvalues>
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="[(12760, 12780), (18140, 18160), (19220, 19300), (19320, 19440), (19960, 19980)]" />
+          <attvalue for="3" value="260" />
+        </attvalues>
+      </edge>
+      <edge id="46" source="1168" target="1148">
+        <attvalues>
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="[(17580, 17660), (17700, 17720), (17920, 17940), (17980, 18040)]" />
+          <attvalue for="3" value="180" />
+        </attvalues>
+      </edge>
+      <edge id="47" source="1305" target="1190">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(16640, 16680)]" />
+          <attvalue for="3" value="40" />
+        </attvalues>
+      </edge>
+      <edge id="48" source="1305" target="1383">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(36420, 36440)]" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="49" source="1305" target="1193">
+        <attvalues>
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="[(16460, 16500), (24740, 24840), (24860, 24960), (24980, 25000), (25020, 25040)]" />
+          <attvalue for="3" value="280" />
+        </attvalues>
+      </edge>
+      <edge id="50" source="1305" target="1196">
+        <attvalues>
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="[(16540, 16560), (16600, 16620), (16640, 16660), (18580, 18600)]" />
+          <attvalue for="3" value="80" />
+        </attvalues>
+      </edge>
+      <edge id="51" source="1305" target="1116">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(20640, 20660)]" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="52" source="1305" target="1246">
+        <attvalues>
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="[(36420, 36440), (37240, 37260), (37280, 37300), (37320, 37340), (37380, 37440)]" />
+          <attvalue for="3" value="140" />
+        </attvalues>
+      </edge>
+      <edge id="53" source="1179" target="1378">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[(20080, 20120), (23580, 23620)]" />
+          <attvalue for="3" value="80" />
+        </attvalues>
+      </edge>
+      <edge id="54" source="1179" target="1190">
+        <attvalues>
+          <attvalue for="1" value="19" />
+          <attvalue for="2" value="[(13300, 13320), (13400, 13420), (13880, 13900), (13920, 13960), (14380, 14400), (20500, 20520), (20820, 20860), (20980, 21000), (21500, 21520), (21600, 21620), (21780, 21820), (21860, 21900), (22080, 22140), (22180, 22200), (22220, 22320), (22340, 22500), (22660, 22680), (22720, 22740), (24600, 24620)]" />
+          <attvalue for="3" value="720" />
+        </attvalues>
+      </edge>
+      <edge id="55" source="1179" target="1191">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[(8060, 8080), (9360, 9380)]" />
+          <attvalue for="3" value="40" />
+        </attvalues>
+      </edge>
+      <edge id="56" source="1179" target="1320">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(9300, 9320)]" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="57" source="1179" target="1193">
+        <attvalues>
+          <attvalue for="1" value="27" />
+          <attvalue for="2" value="[(9420, 9440), (13180, 13300), (13460, 13520), (13580, 13600), (13660, 13800), (13840, 14020), (14400, 14420), (16340, 16360), (18340, 18400), (18440, 18460), (19340, 19360), (19460, 19480), (19920, 19940), (20140, 20160), (20200, 20260), (20520, 20560), (20940, 21060), (21100, 21120), (21500, 21520), (21920, 21940), (22160, 22260), (22400, 22460), (22540, 22560), (22640, 22660), (22700, 22720), (22780, 22800), (23960, 23980)]" />
+          <attvalue for="3" value="1280" />
+        </attvalues>
+      </edge>
+      <edge id="58" source="1179" target="1098">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(16360, 16380)]" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="59" source="1179" target="1196">
+        <attvalues>
+          <attvalue for="1" value="26" />
+          <attvalue for="2" value="[(6720, 6740), (12460, 12480), (13520, 13540), (13560, 13600), (13620, 13660), (13700, 13720), (13780, 13820), (14020, 14040), (14400, 14420), (20200, 20240), (20380, 20400), (20720, 20740), (20880, 20920), (20960, 20980), (21020, 21040), (21260, 21280), (21420, 21440), (21460, 21520), (21620, 21700), (21720, 21880), (21980, 22120), (22160, 22200), (22260, 22280), (22620, 22640), (22780, 22800), (24660, 24680)]" />
+          <attvalue for="3" value="1000" />
+        </attvalues>
+      </edge>
+      <edge id="60" source="1179" target="1261">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[(16220, 16240), (16580, 16600)]" />
+          <attvalue for="3" value="40" />
+        </attvalues>
+      </edge>
+      <edge id="61" source="1179" target="1393">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[(16760, 16800), (20340, 20360)]" />
+          <attvalue for="3" value="60" />
+        </attvalues>
+      </edge>
+      <edge id="62" source="1179" target="1232">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(4360, 4380)]" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="63" source="1179" target="1105">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(4340, 4360)]" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="64" source="1179" target="1365">
+        <attvalues>
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="[(9140, 9160), (9320, 9340), (9480, 9840), (9960, 10000), (20240, 20260), (20280, 20300), (20360, 20400), (22980, 23000), (23040, 23060)]" />
+          <attvalue for="3" value="560" />
+        </attvalues>
+      </edge>
+      <edge id="65" source="1179" target="1144">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(14940, 14960)]" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="66" source="1179" target="1114">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(9060, 9120)]" />
+          <attvalue for="3" value="60" />
+        </attvalues>
+      </edge>
+      <edge id="67" source="1179" target="1327">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(23320, 23360)]" />
+          <attvalue for="3" value="40" />
+        </attvalues>
+      </edge>
+      <edge id="68" source="1179" target="1116">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(9080, 9100)]" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="69" source="1181" target="1232">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(4400, 4420)]" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="70" source="1181" target="1098">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(3980, 4000)]" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="71" source="1190" target="1377">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(25420, 25440)]" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="72" source="1190" target="1378">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[(17860, 17880), (25620, 25640)]" />
+          <attvalue for="3" value="40" />
+        </attvalues>
+      </edge>
+      <edge id="73" source="1190" target="1191">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(14400, 14420)]" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="74" source="1190" target="1193">
+        <attvalues>
+          <attvalue for="1" value="46" />
+          <attvalue for="2" value="[(12880, 12900), (13000, 13020), (16400, 16420), (16460, 16480), (16500, 16600), (16640, 16660), (16740, 16760), (16840, 16860), (16920, 16960), (17020, 17060), (17100, 17140), (17160, 17180), (17280, 17300), (17340, 17360), (17380, 17820), (17860, 17940), (17980, 18000), (18560, 18600), (19540, 19580), (20220, 20260), (20520, 20560), (20660, 20680), (20820, 20840), (20960, 20980), (21000, 21020), (21140, 21160), (21340, 21360), (21400, 21420), (21440, 21480), (21540, 21560), (21580, 21620), (22600, 22740), (22760, 22780), (22880, 22920), (22960, 23000), (23120, 23160), (23220, 23240), (25540, 25560), (26240, 26280), (26320, 26340), (27040, 27060), (29320, 29340), (29360, 29400), (29480, 29500), (30120, 30140), (30440, 30460)]" />
+          <attvalue for="3" value="1880" />
+        </attvalues>
+      </edge>
+      <edge id="75" source="1190" target="1323">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[(25640, 25660), (25780, 25800)]" />
+          <attvalue for="3" value="40" />
+        </attvalues>
+      </edge>
+      <edge id="76" source="1190" target="1196">
+        <attvalues>
+          <attvalue for="1" value="35" />
+          <attvalue for="2" value="[(16160, 16180), (16260, 16280), (16300, 16320), (16340, 16360), (16520, 16660), (16960, 16980), (17020, 17060), (17140, 17160), (18240, 18260), (20080, 20100), (20200, 20220), (20320, 20380), (20920, 20940), (21700, 21720), (22260, 22280), (22380, 22400), (23180, 23200), (23320, 23360), (23400, 23440), (23600, 23620), (23680, 23700), (23760, 23800), (23820, 23860), (23960, 23980), (24080, 24240), (24500, 24520), (24700, 24840), (25080, 25100), (25120, 25200), (25240, 25300), (25380, 25400), (25440, 25460), (25680, 25800), (25820, 25840), (25880, 25900)]" />
+          <attvalue for="3" value="1420" />
+        </attvalues>
+      </edge>
+      <edge id="77" source="1190" target="1261">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(23020, 23040)]" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="78" source="1190" target="1391">
+        <attvalues>
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="[(20480, 20500), (24020, 24060), (24160, 24200), (24220, 24240)]" />
+          <attvalue for="3" value="120" />
+        </attvalues>
+      </edge>
+      <edge id="79" source="1190" target="1393">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(16380, 16400)]" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="80" source="1190" target="1395">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[(24920, 24980), (25200, 25220)]" />
+          <attvalue for="3" value="80" />
+        </attvalues>
+      </edge>
+      <edge id="81" source="1190" target="1365">
+        <attvalues>
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="[(18680, 18700), (18720, 18740), (18880, 18900), (19360, 19500)]" />
+          <attvalue for="3" value="200" />
+        </attvalues>
+      </edge>
+      <edge id="82" source="1190" target="1116">
+        <attvalues>
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="[(18580, 18600), (21560, 21580), (22980, 23000)]" />
+          <attvalue for="3" value="60" />
+        </attvalues>
+      </edge>
+      <edge id="83" source="1190" target="1374">
+        <attvalues>
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="[(23280, 23300), (23320, 23380), (23400, 23420)]" />
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge id="84" source="1191" target="1193">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[(11120, 11160), (16020, 16040)]" />
+          <attvalue for="3" value="60" />
+        </attvalues>
+      </edge>
+      <edge id="85" source="1191" target="1098">
+        <attvalues>
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="[(7980, 8020), (8080, 8100), (9920, 9940), (11100, 11120)]" />
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge id="86" source="1191" target="1261">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(20800, 20820)]" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="87" source="1191" target="1144">
+        <attvalues>
+          <attvalue for="1" value="27" />
+          <attvalue for="2" value="[(700, 940), (9240, 9280), (10220, 10320), (10340, 10420), (10520, 10580), (12040, 12120), (12200, 12220), (12360, 12400), (14140, 14300), (14400, 14440), (14460, 14560), (14720, 14920), (16820, 16840), (17000, 17100), (17900, 17940), (17960, 18140), (18160, 18220), (18320, 18340), (18700, 18720), (19080, 19100), (19460, 19520), (19580, 19820), (19840, 19860), (20000, 20040), (20060, 20080), (20160, 20240), (20260, 20300)]" />
+          <attvalue for="3" value="2120" />
+        </attvalues>
+      </edge>
+      <edge id="88" source="1191" target="1114">
+        <attvalues>
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="[(8020, 8100), (9360, 9420), (9460, 9480)]" />
+          <attvalue for="3" value="160" />
+        </attvalues>
+      </edge>
+      <edge id="89" source="1191" target="1148">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[(17940, 17980), (18120, 18140)]" />
+          <attvalue for="3" value="60" />
+        </attvalues>
+      </edge>
+      <edge id="90" source="1191" target="1130">
+        <attvalues>
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="[(17560, 17680), (17720, 17800), (17900, 17960), (18040, 18140), (18420, 18440), (18460, 18580)]" />
+          <attvalue for="3" value="500" />
+        </attvalues>
+      </edge>
+      <edge id="91" source="1320" target="1116">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(20340, 20360)]" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="92" source="1193" target="1323">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(20040, 20120)]" />
+          <attvalue for="3" value="80" />
+        </attvalues>
+      </edge>
+      <edge id="93" source="1193" target="1196">
+        <attvalues>
+          <attvalue for="1" value="56" />
+          <attvalue for="2" value="[(8760, 8780), (8880, 8940), (9200, 9220), (9240, 9260), (9280, 9300), (9340, 9360), (9480, 9520), (9740, 9780), (9900, 9960), (9980, 10240), (10260, 10300), (10320, 10360), (10660, 10680), (11220, 11240), (12360, 12380), (13340, 13360), (13400, 13420), (14240, 14260), (14580, 14600), (15080, 15100), (15220, 15260), (16420, 16440), (16680, 16700), (16740, 16760), (16780, 16800), (16820, 17260), (17320, 17360), (17840, 17880), (17920, 17940), (17980, 18000), (18080, 18100), (18280, 18320), (18360, 18440), (19080, 19100), (20220, 20240), (20300, 20320), (20680, 20700), (20820, 20840), (20900, 21020), (21060, 21100), (21540, 21560), (22760, 22780), (22920, 22960), (23040, 23080), (25560, 25580), (26240, 26260), (26560, 26580), (26940, 26960), (27160, 27200), (27280, 27300), (27340, 27400), (27440, 27480), (27760, 27780), (28380, 28400), (28420, 28440), (28460, 28540)]" />
+          <attvalue for="3" value="2380" />
+        </attvalues>
+      </edge>
+      <edge id="94" source="1193" target="1327">
+        <attvalues>
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="[(26580, 26640), (26680, 26700), (26820, 26840), (27080, 27140)]" />
+          <attvalue for="3" value="160" />
+        </attvalues>
+      </edge>
+      <edge id="95" source="1193" target="1352">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(16740, 16760)]" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="96" source="1193" target="1098">
+        <attvalues>
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="[(4480, 4500), (10560, 10600), (10640, 10660), (15220, 15260), (15520, 15540), (15560, 15580)]" />
+          <attvalue for="3" value="160" />
+        </attvalues>
+      </edge>
+      <edge id="97" source="1193" target="1232">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[(4240, 4260), (4380, 4400)]" />
+          <attvalue for="3" value="40" />
+        </attvalues>
+      </edge>
+      <edge id="98" source="1193" target="1105">
+        <attvalues>
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="[(4480, 4580), (5440, 5460), (5500, 5520)]" />
+          <attvalue for="3" value="140" />
+        </attvalues>
+      </edge>
+      <edge id="99" source="1193" target="1365">
+        <attvalues>
+          <attvalue for="1" value="16" />
+          <attvalue for="2" value="[(9300, 9320), (9340, 9360), (10940, 10960), (18520, 18540), (18680, 18700), (18920, 18960), (18980, 19000), (20220, 20240), (20300, 20340), (23780, 23820), (23840, 23860), (24020, 24040), (24060, 24140), (24260, 24300), (24400, 24420), (24440, 24540)]" />
+          <attvalue for="3" value="540" />
+        </attvalues>
+      </edge>
+      <edge id="100" source="1193" target="1114">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[(4900, 4920), (10560, 10600)]" />
+          <attvalue for="3" value="60" />
+        </attvalues>
+      </edge>
+      <edge id="101" source="1193" target="1116">
+        <attvalues>
+          <attvalue for="1" value="21" />
+          <attvalue for="2" value="[(4300, 4340), (4520, 4540), (4560, 4580), (21540, 21560), (23440, 23460), (24120, 24160), (24180, 24200), (24240, 24260), (24340, 24440), (24900, 24920), (25220, 25260), (25340, 25360), (25740, 25780), (25800, 25820), (25860, 25940), (25960, 26000), (26060, 26080), (26360, 26380), (26820, 26840), (27600, 27620), (28260, 28280)]" />
+          <attvalue for="3" value="660" />
+        </attvalues>
+      </edge>
+      <edge id="102" source="1193" target="1374">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(18700, 18720)]" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="103" source="1193" target="1378">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[(17320, 17380), (17860, 17940)]" />
+          <attvalue for="3" value="140" />
+        </attvalues>
+      </edge>
+      <edge id="104" source="1193" target="1383">
+        <attvalues>
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="[(19080, 19100), (19780, 19800), (25180, 25200), (25260, 25300), (25320, 25360)]" />
+          <attvalue for="3" value="140" />
+        </attvalues>
+      </edge>
+      <edge id="105" source="1193" target="1261">
+        <attvalues>
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="[(21040, 21060), (21120, 21140), (21280, 21320), (21440, 21520), (21560, 21600), (21720, 21740), (22580, 22640), (23080, 23100)]" />
+          <attvalue for="3" value="300" />
+        </attvalues>
+      </edge>
+      <edge id="106" source="1193" target="1393">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[(24620, 24640), (24660, 24700)]" />
+          <attvalue for="3" value="60" />
+        </attvalues>
+      </edge>
+      <edge id="107" source="1193" target="1142">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[(4860, 4880), (6400, 6420)]" />
+          <attvalue for="3" value="40" />
+        </attvalues>
+      </edge>
+      <edge id="108" source="1193" target="1399">
+        <attvalues>
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="[(20560, 20620), (25720, 25760), (25780, 25820), (25860, 25920), (25980, 26000), (26020, 26040), (26060, 26080)]" />
+          <attvalue for="3" value="260" />
+        </attvalues>
+      </edge>
+      <edge id="109" source="1193" target="1109">
+        <attvalues>
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="[(4260, 4280), (4480, 4520), (4540, 4560), (4580, 4600), (5060, 5080), (5200, 5320)]" />
+          <attvalue for="3" value="240" />
+        </attvalues>
+      </edge>
+      <edge id="110" source="1323" target="1196">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[(25660, 25720), (25780, 25840)]" />
+          <attvalue for="3" value="120" />
+        </attvalues>
+      </edge>
+      <edge id="111" source="1323" target="1246">
+        <attvalues>
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="[(33980, 34020), (34060, 34080), (34180, 34200)]" />
+          <attvalue for="3" value="80" />
+        </attvalues>
+      </edge>
+      <edge id="112" source="1196" target="1378">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[(17320, 17340), (17960, 18000)]" />
+          <attvalue for="3" value="60" />
+        </attvalues>
+      </edge>
+      <edge id="113" source="1196" target="1383">
+        <attvalues>
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="[(18560, 18600), (18700, 18800), (18840, 18860), (19360, 19380), (19680, 19720), (19960, 20000)]" />
+          <attvalue for="3" value="260" />
+        </attvalues>
+      </edge>
+      <edge id="114" source="1196" target="1352">
+        <attvalues>
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="[(25960, 26060), (26080, 26100), (26120, 26140), (26180, 26220), (26280, 26320), (26340, 26360), (26400, 26440)]" />
+          <attvalue for="3" value="280" />
+        </attvalues>
+      </edge>
+      <edge id="115" source="1196" target="1098">
+        <attvalues>
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="[(8080, 8100), (15180, 15200), (15260, 15280)]" />
+          <attvalue for="3" value="60" />
+        </attvalues>
+      </edge>
+      <edge id="116" source="1196" target="1261">
+        <attvalues>
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="[(25980, 26100), (26300, 26360), (26380, 26420)]" />
+          <attvalue for="3" value="220" />
+        </attvalues>
+      </edge>
+      <edge id="117" source="1196" target="1391">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(24120, 24160)]" />
+          <attvalue for="3" value="40" />
+        </attvalues>
+      </edge>
+      <edge id="118" source="1196" target="1393">
+        <attvalues>
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="[(16240, 16260), (16280, 16300), (16340, 16380)]" />
+          <attvalue for="3" value="80" />
+        </attvalues>
+      </edge>
+      <edge id="119" source="1196" target="1395">
+        <attvalues>
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="[(24940, 25020), (25060, 25100), (25120, 25340)]" />
+          <attvalue for="3" value="340" />
+        </attvalues>
+      </edge>
+      <edge id="120" source="1196" target="1363">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(23640, 23660)]" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="121" source="1196" target="1365">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(20340, 20380)]" />
+          <attvalue for="3" value="40" />
+        </attvalues>
+      </edge>
+      <edge id="122" source="1196" target="1116">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[(18640, 18660), (22940, 22960)]" />
+          <attvalue for="3" value="40" />
+        </attvalues>
+      </edge>
+      <edge id="123" source="1196" target="1374">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(23320, 23400)]" />
+          <attvalue for="3" value="80" />
+        </attvalues>
+      </edge>
+      <edge id="124" source="1327" target="1261">
+        <attvalues>
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="[(19040, 19060), (19080, 19100), (19340, 19360)]" />
+          <attvalue for="3" value="60" />
+        </attvalues>
+      </edge>
+      <edge id="125" source="1327" target="1246">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[(34920, 34940), (34960, 34980)]" />
+          <attvalue for="3" value="40" />
+        </attvalues>
+      </edge>
+      <edge id="126" source="1332" target="1246">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(37180, 37200)]" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="127" source="1374" target="1261">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(28020, 28040)]" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="128" source="1374" target="1246">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[(38380, 38560), (38580, 38600)]" />
+          <attvalue for="3" value="200" />
+        </attvalues>
+      </edge>
+      <edge id="129" source="1352" target="1116">
+        <attvalues>
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="[(25520, 25560), (25600, 25620), (25640, 25660)]" />
+          <attvalue for="3" value="80" />
+        </attvalues>
+      </edge>
+      <edge id="130" source="1352" target="1261">
+        <attvalues>
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="[(24840, 24860), (25040, 25060), (25160, 25180), (25360, 25420), (25480, 25500), (25580, 25660), (25760, 25900), (25920, 25960), (25980, 26140), (26300, 26420), (26440, 26460)]" />
+          <attvalue for="3" value="700" />
+        </attvalues>
+      </edge>
+      <edge id="131" source="1352" target="1246">
+        <attvalues>
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="[(36640, 36760), (36800, 36860), (36880, 36900), (36920, 37040)]" />
+          <attvalue for="3" value="320" />
+        </attvalues>
+      </edge>
+      <edge id="132" source="1098" target="1261">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(15220, 15240)]" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="133" source="1098" target="1144">
+        <attvalues>
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="[(13640, 13660), (13680, 13700), (16640, 16720)]" />
+          <attvalue for="3" value="120" />
+        </attvalues>
+      </edge>
+      <edge id="134" source="1098" target="1114">
+        <attvalues>
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="[(4280, 4300), (4360, 4460), (4740, 4760), (5300, 5320), (10200, 10220), (10320, 10340), (10580, 10600)]" />
+          <attvalue for="3" value="220" />
+        </attvalues>
+      </edge>
+      <edge id="135" source="1098" target="1116">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(16480, 16500)]" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="136" source="1232" target="1149">
+        <attvalues>
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="[(4620, 4660), (4700, 4720), (5020, 5040), (5120, 5140), (5160, 5200), (5320, 5340), (5500, 5580)]" />
+          <attvalue for="3" value="240" />
+        </attvalues>
+      </edge>
+      <edge id="137" source="1232" target="1105">
+        <attvalues>
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="[(4360, 4420), (4460, 4520), (4600, 4620)]" />
+          <attvalue for="3" value="140" />
+        </attvalues>
+      </edge>
+      <edge id="138" source="1232" target="1109">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[(4200, 4260), (4280, 4300)]" />
+          <attvalue for="3" value="80" />
+        </attvalues>
+      </edge>
+      <edge id="139" source="1105" target="1109">
+        <attvalues>
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="[(4020, 4040), (4480, 4520), (4540, 4600), (4640, 4660)]" />
+          <attvalue for="3" value="140" />
+        </attvalues>
+      </edge>
+      <edge id="140" source="1105" target="1142">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(5560, 5580)]" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="141" source="1105" target="1114">
+        <attvalues>
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="[(2900, 2920), (4900, 4920), (5440, 5460)]" />
+          <attvalue for="3" value="60" />
+        </attvalues>
+      </edge>
+      <edge id="142" source="1105" target="1116">
+        <attvalues>
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="[(4520, 4540), (4560, 4580), (5460, 5480), (5600, 5620), (5640, 5660)]" />
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge id="143" source="1363" target="1261">
+        <attvalues>
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="[(16920, 16960), (17200, 17220), (17500, 17520), (17760, 17800), (17880, 17920)]" />
+          <attvalue for="3" value="160" />
+        </attvalues>
+      </edge>
+      <edge id="144" source="1363" target="1246">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[(37720, 37740), (37780, 37800)]" />
+          <attvalue for="3" value="40" />
+        </attvalues>
+      </edge>
+      <edge id="145" source="1363" target="1238">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(37760, 37780)]" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="146" source="1365" target="1393">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(27040, 27060)]" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="147" source="1365" target="1238">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(37880, 38080)]" />
+          <attvalue for="3" value="200" />
+        </attvalues>
+      </edge>
+      <edge id="148" source="1365" target="1144">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[(12520, 12540), (16600, 16620)]" />
+          <attvalue for="3" value="40" />
+        </attvalues>
+      </edge>
+      <edge id="149" source="1365" target="1116">
+        <attvalues>
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="[(13780, 13940), (13960, 13980), (24500, 24560)]" />
+          <attvalue for="3" value="240" />
+        </attvalues>
+      </edge>
+      <edge id="150" source="1365" target="1246">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[(37860, 37880), (37900, 38000)]" />
+          <attvalue for="3" value="120" />
+        </attvalues>
+      </edge>
+      <edge id="151" source="1238" target="1383">
+        <attvalues>
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="[(35960, 35980), (36200, 36260), (36340, 36360), (36400, 36420), (36460, 36500)]" />
+          <attvalue for="3" value="160" />
+        </attvalues>
+      </edge>
+      <edge id="152" source="1238" target="1395">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(34600, 34620)]" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="153" source="1238" target="1391">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(35360, 35400)]" />
+          <attvalue for="3" value="40" />
+        </attvalues>
+      </edge>
+      <edge id="154" source="1238" target="1393">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(37620, 37640)]" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="155" source="1238" target="1399">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(35680, 35720)]" />
+          <attvalue for="3" value="40" />
+        </attvalues>
+      </edge>
+      <edge id="156" source="1238" target="1246">
+        <attvalues>
+          <attvalue for="1" value="34" />
+          <attvalue for="2" value="[(32100, 32140), (32500, 32580), (32620, 32700), (32860, 32880), (32900, 32980), (33180, 33200), (33660, 33800), (33960, 33980), (34300, 34320), (34340, 34360), (34620, 34640), (35200, 35220), (35240, 35300), (35540, 35560), (35680, 35700), (35720, 35780), (35980, 36020), (36040, 36080), (36140, 36160), (36180, 36240), (36360, 36380), (36400, 36420), (36500, 36540), (36840, 36920), (36980, 37020), (37040, 37060), (37080, 37100), (37120, 37140), (37160, 37200), (37380, 37420), (37560, 37600), (37920, 37940), (37960, 38000), (38540, 38560)]" />
+          <attvalue for="3" value="1340" />
+        </attvalues>
+      </edge>
+      <edge id="157" source="1114" target="1142">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(4780, 4800)]" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="158" source="1114" target="1144">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(6380, 6400)]" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="159" source="1114" target="1116">
+        <attvalues>
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="[(4340, 4360), (4380, 4400), (4420, 4440), (6420, 6440), (9340, 9360)]" />
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge id="160" source="1115" target="1109">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(3720, 3760)]" />
+          <attvalue for="3" value="40" />
+        </attvalues>
+      </edge>
+      <edge id="161" source="1116" target="1378">
+        <attvalues>
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="[(15680, 15700), (15820, 15840), (16340, 16360), (20940, 20960)]" />
+          <attvalue for="3" value="80" />
+        </attvalues>
+      </edge>
+      <edge id="162" source="1116" target="1383">
+        <attvalues>
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="[(21080, 21100), (25260, 25280), (25300, 25320)]" />
+          <attvalue for="3" value="60" />
+        </attvalues>
+      </edge>
+      <edge id="163" source="1116" target="1261">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(24660, 24680)]" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="164" source="1116" target="1393">
+        <attvalues>
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="[(12420, 12460), (13480, 13500), (13560, 13580)]" />
+          <attvalue for="3" value="80" />
+        </attvalues>
+      </edge>
+      <edge id="165" source="1116" target="1142">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(5560, 5580)]" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="166" source="1116" target="1399">
+        <attvalues>
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="[(25980, 26000), (26020, 26040), (26460, 26480), (27460, 27480)]" />
+          <attvalue for="3" value="80" />
+        </attvalues>
+      </edge>
+      <edge id="167" source="1246" target="1378">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(34280, 34300)]" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="168" source="1246" target="1383">
+        <attvalues>
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="[(35840, 35920), (35960, 36000), (36120, 36140), (36240, 36260), (36420, 36440)]" />
+          <attvalue for="3" value="180" />
+        </attvalues>
+      </edge>
+      <edge id="169" source="1246" target="1393">
+        <attvalues>
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="[(37060, 37100), (37500, 37520), (37540, 37600), (37620, 37640)]" />
+          <attvalue for="3" value="140" />
+        </attvalues>
+      </edge>
+      <edge id="170" source="1246" target="1399">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[(35640, 35700), (35740, 35760)]" />
+          <attvalue for="3" value="80" />
+        </attvalues>
+      </edge>
+      <edge id="171" source="1246" target="1391">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[(35120, 35140), (35160, 35300)]" />
+          <attvalue for="3" value="160" />
+        </attvalues>
+      </edge>
+      <edge id="172" source="1246" target="1395">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(34720, 34740)]" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="173" source="1377" target="1144">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(17100, 17120)]" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="174" source="1261" target="1395">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[(27520, 27540), (27560, 27580)]" />
+          <attvalue for="3" value="40" />
+        </attvalues>
+      </edge>
+      <edge id="175" source="1261" target="1391">
+        <attvalues>
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="[(20100, 20120), (20320, 20340), (23680, 23700), (23720, 23740), (27220, 27240)]" />
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge id="176" source="1142" target="1109">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(5480, 5500)]" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="177" source="1142" target="1149">
+        <attvalues>
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[(4280, 4300), (4720, 4740)]" />
+          <attvalue for="3" value="40" />
+        </attvalues>
+      </edge>
+      <edge id="178" source="1149" target="1109">
+        <attvalues>
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[(4600, 4620)]" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
